@@ -1,0 +1,20 @@
+{
+	"name": "jscheduler",
+	"description": "Parallel execution of asynchronous callbacks. Fast, does not ensure order in response.",
+	"keywords": [
+		"schedule",
+		"parallel",
+		"async",
+		"callback"
+	],
+	"version": "1.0.2",
+	"author": {
+		"name": "Pablo F. Mescher",
+		"email": "pfmescher@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PabloM1986/jScheduler"
+	},
+	"main": "./index"
+}
